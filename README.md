@@ -1,6 +1,6 @@
 <div style="width: 100%; display: flex; justify-content: center;">
 	<h3 style="text-align: center; width: 100%; display: block;">Hello 👋<br/> I am Ianos,</h3> 
-	<h3>👨‍💼 A software engineer currently employed at input-output</h3>
+	<h3>👨‍💼 A software engineer currently employed at Input/Output</h3>
 	<p> I am SSI enthusiast and front-end expert, passioned about working with technology and always excited to make things better.</p>
 	<h3>⚙️ Tools I use</h3>
 	<div style="display: flex">	
