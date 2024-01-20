@@ -1,11 +1,26 @@
 <div style="width: 100%; display: flex; justify-content: center;">
-	<h3 style="text-align: center; width: 100%; display: block;">Hello 👋<br/> I am Ianos,</h3> 
-	<h3>👨‍💼 A software engineer currently employed at Input/Output</h3>
-	<p> I am SSI enthusiast and front-end expert, passioned about working with technology and always excited to make things better.</p>
-	<h3>⚙️ Tools I use</h3>
-	<div style="display: flex">	
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt= “” width="50" height="50" onclick="prompt('hello world')">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png?20190122211436)" alt= “” width="50" height="50">
-	</div>
-	<h3>See ya later 👨‍💻</h3>
+<h2>👋 I am a software engineer proficient in front-end development.</h2>
+<p>🗣️ Languages I speak:</p>
+<ul>
+<li>Romanian (native)</li>
+<li>English (fluent)</li>
+</ul>
+<p><strong>Front-end</strong>: HTML5, Javascript, Typescript, React, NextJS, Vite, CRA, Storybook, Zustand (state manager), redux, graphql, react query, bootstrap, tailwind, CSS, less/scss, styled-components, linaria, socket IO, SQL JS, Framer motion, React spring and web APIs.</p>
+<p><strong>Compilers</strong>: SWC, Webpack and Rollup.</p>
+<p>Testing: Jest and mocha.</p>
+<p>Code Quality: Eslint and prettier.</p>
+<p>Native: React native, expo.</p>
+<p>Versioning: Git, semantic-release.</p>
+<p>Rest API tools: Postman and Swagger.</p>
+<p>Smart contract: Solidity.</p>
+<p>Blockchain: Ethereum.</p>
+<p>Code hosting: Github and Bitbucket.</p>
+<p>Project management: Jira and Trello.</p>
+<p>Backend: NodeJS, NestJS, NextJS, Express, typescript, open ID connect, Keycloak, SocketIO, Typeorm, mysql, MongoDB and Strapi CMS.</p>
+<p>IDEs: Webstorm, Atom and Visual studio.</p>
+<p>Design Tools: Figma, Adobe illustrator, Adobe photoshop and sketch.</p>
+<p>Containerization platform: Docker.</p>
+<p>CI / CD: Github actions and Bitbucket pipelines.</p>
+<p>Operating systems: MacOS, Windows and Linux.</p>
+
 </div>
