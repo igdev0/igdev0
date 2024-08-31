@@ -1,2 +1,5 @@
-### I am Ianos 👋
-A software developer with expertise in web/native, want to chat? find me on <a href="https://www.linkedin.com/in/ianos-dorultan-364235143/">linkedin</a> 🧑‍💻 or <a href="mailto:dorultanianos@gmail.com">email me</a>.  
+🔭 I’m currently working on a non-custodial wallet;<br/>
+🦀 Upgrading my Rust knowledge ;<br/>
+🐝 Looking for opportunities in web3 space;<br/>
+📫 Reach me at: dorultanianos@gmail.com;<br/>
+😸 Keep being awesome!;
