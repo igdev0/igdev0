@@ -1,4 +1,4 @@
-Hello 👋
+Hello👋 
 
 🔭 I’m currently working on a non-custodial wallet;<br/>
 🦀 Advancing my Rust knowledge ;<br/>
