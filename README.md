@@ -1,3 +1,5 @@
+Hello 👋
+
 🔭 I’m currently working on a non-custodial wallet;<br/>
 🦀 Advancing my Rust knowledge ;<br/>
 🐝 Looking for opportunities in web3 space;<br/>
