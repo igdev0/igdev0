@@ -4,4 +4,4 @@ Hello👋
 🦀 Advancing my Rust knowledge ;<br/>
 🐝 Looking for opportunities in web3 space;<br/>
 📫 Reach me at: dorultanianos@gmail.com;<br/>
-😸 Keep being awesome!;
+🐊 See ya later aligator! 😄;
