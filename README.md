@@ -1,6 +1,6 @@
 Hello👋 
 
- I’m currently working on a crypto wallet;<br/>
+🔭 I’m currently working on a crypto wallet;<br/>
 💻 A proficent frontend developer;<br/>
 🦀 Advancing my Rust knowledge ;<br/>
 🐝 Looking for opportunities in web3 space;<br/>
