@@ -1,4 +1,4 @@
-# Hello, I’m igdev 👋
+# Hello, I’m Ianos 👋
 
 💻 Full-stack developer with 5+ years of experience  
 ⚡ Specialized in **React, React-Native, TypeScript, Node.js, and Solidity**  
