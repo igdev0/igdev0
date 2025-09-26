@@ -1,7 +1,11 @@
-Hello👋 
+# Hello, I’m igdev 👋
 
-💻 I’m a proficient software developer<br/>
-🔭 Currently working on BeeFunded<br/>
-🐝 Open to exciting opportunities in innovative tech spaces.<br/>
-📫 Reach me at: dorultanianos@gmail.com<br/>
-🚀 Let’s build something awesome together! 😃
+💻 Full-stack developer with 5+ years of experience  
+⚡ Specialized in **React, TypeScript, Node.js, and Solidity**  
+🌱 Love crafting smooth frontends  
+🛠 Currently building **BeeFunded** – a multi-chain donation platform on Ethereum  
+🌍 Open to collaborating on innovative tech projects
+
+📫 Reach me: [dorutianianos@gmail.com](mailto:dorutianianos@gmail.com)  
+
+🐊 See ya later, alligator!
